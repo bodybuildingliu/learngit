@@ -1,0 +1,1 @@
+alert('我要学JavaScript!');
